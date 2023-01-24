@@ -7,6 +7,6 @@ cd /home/ec2-user/server
 rm -rf node_modules
 rm -rf build
 
-#Install_node_modules_&_Make_React_Build
+#Install_node_modules_
 npm  install
 npm run build
