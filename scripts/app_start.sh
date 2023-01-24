@@ -4,4 +4,4 @@
 cd /home/ec2-user/server
 
 #Running server
-npm run production
+serve -s ./dist
