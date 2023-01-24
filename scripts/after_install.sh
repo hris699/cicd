@@ -9,6 +9,5 @@ rm -rf dist
 
 #Install_node_modules_
 npm  install
-npm -g install serve
 npm run build
 

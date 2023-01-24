@@ -3,8 +3,6 @@
 #_Change_Working_Directory
 cd /home/ec2-user/server
 
-
-
 #_Delete_Old_PM2_Service
 
 pm2 delete Frontend
